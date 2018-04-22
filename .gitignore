@@ -1,0 +1,25 @@
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+/bin/
+.
+*.project
+*.classpath
+**/.settings/**
+**/test-output/**
+**/target/**
+**/resources/Hashcode.txt
+/.idea/
+/*.iml
+/target/
+sdk.log*
+src/main/resources/properties/GuyEnv.properties
+sdk.log
+/Compare jsons/
+src/main/resources/properties/Guy.properties
+src/main/resources/properties/local.properties
+**/*.orig
+/src/main/resources/testNGSuites/FlexwareRegressionSvetlana.xml
